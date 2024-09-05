@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="chart_1_" data-name="chart (1)" transform="translate(-2 -3)">
+    <path id="Path_8795" data-name="Path 8795" d="M30,35.69V47.414h5.424V35H30.678A.684.684,0,0,0,30,35.69Z" transform="translate(-9.017 -9.931)" fill="#fe354d"/>
+    <path id="Path_8796" data-name="Path 8796" d="M20,45.69v4.828h5.424V45H20.678A.684.684,0,0,0,20,45.69Z" transform="translate(-5.797 -13.034)" fill="#fe354d"/>
+    <path id="Path_8797" data-name="Path 8797" d="M40,25.69V44.31h5.424V25H40.678A.684.684,0,0,0,40,25.69Z" transform="translate(-12.237 -6.828)" fill="#fe354d"/>
+    <path id="Path_8798" data-name="Path 8798" d="M55.424,13.69a.684.684,0,0,0-.678-.69H50.678a.684.684,0,0,0-.678.69v26.9h5.424Z" transform="translate(-15.458 -3.103)" fill="#fe354d"/>
+    <path id="Path_8799" data-name="Path 8799" d="M3,55H42.322v4.138H3Z" transform="translate(-0.322 -16.138)" fill="#fe354d"/>
+    <path id="Path_8800" data-name="Path 8800" d="M20.831,6.336,17.517,9.707l-.959-.975L19.929,5.3A8.041,8.041,0,0,0,15,3.041V10.6h7.429A8.3,8.3,0,0,0,20.831,6.336Z" transform="translate(-4.186 -0.013)" fill="#041b52"/>
+    <path id="Path_8801" data-name="Path 8801" d="M10.1,11.627V5.051a6.787,6.787,0,0,0-5.587,4.22,6.986,6.986,0,0,0,1.018,7Z" transform="translate(-0.644 -0.637)" fill="#041b52"/>
+    <path id="Path_8802" data-name="Path 8802" d="M11.963,22.207A6.833,6.833,0,0,0,18.709,16H12.244L7.676,20.647a6.675,6.675,0,0,0,4.287,1.56Z" transform="translate(-1.828 -4.034)" fill="#041b52"/>
+    <path id="Path_8803" data-name="Path 8803" d="M23.17,6.323l1.908-1.944H38.357V3H24.8a.672.672,0,0,0-.479.2L22.265,5.29a8.272,8.272,0,0,1,.905,1.033Z" transform="translate(-6.526)" fill="#041b52"/>
+    <path id="Path_8804" data-name="Path 8804" d="M2,37H18.271v1.379H2Z" transform="translate(0 -10.552)" fill="#041b52"/>
+    <path id="Path_8805" data-name="Path 8805" d="M2,33H18.271v1.379H2Z" transform="translate(0 -9.31)" fill="#041b52"/>
+    <path id="Path_8806" data-name="Path 8806" d="M2,29H18.271v1.379H2Z" transform="translate(0 -8.069)" fill="#041b52"/>
+  </g>
+</svg>
